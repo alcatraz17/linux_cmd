@@ -1,4 +1,4 @@
-sudo -i			//Grants root access for all commands as root user. "sudo" grants only for one command.
+sudo -i			//Grants root access for all commands as root user.
 apt-get update			//Updates package list installed so that it can be updated, also newly lists can be added using this command.
 apt install python3		//Installs python 3. Similarly other package names can be used.
 cd ~/Desktop/			//Changes directory to desktop.
