@@ -1,0 +1,11 @@
+sudo -i			//Grants root access for all commands as root user. "sudo" grants only for one command.
+apt-get update			//Updates package list installed so that it can be updated, also newly lists can be added using this command.
+apt install python3		//Installs python 3. Similarly other package names can be used.
+cd ~/Desktop/			//Changes directory to desktop.
+touch w.txt			//Creates file named w.txt.
+mkdir hi			//Creates a directory named hi.
+rm -rf hi			//Deletes hi folder.
+ls				//Lists all directory.
+cp Linux_cmd/* commands	//Copies all files, folders from Linux_cmd to commands folder.
+mv Linux_commands/* cmd	//Moves from Linux_commands to cmd, also used for renaming.
+
